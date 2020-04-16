@@ -65,7 +65,7 @@ a set of sample code working.
 
 
 You can find the source of `com.kazurayam.katalonforum.CustomStringComparator` class
-[here](./Keywords/com/kazurayam/katalonforum/CustomStringComapator.groovy).
+[here](./Keywords/com/kazurayam/katalonforum/CustomStringComparator.groovy).
 
 
 ## My opinion
