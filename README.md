@@ -76,4 +76,4 @@ This exercises would require a few years of intensive Java programming lessons.
 
 I think that it is too much for a UI tester; a UI tester should not be responsible
 for verifying the data-sorting algorithms.
-Rather I would ask the server-side developers to test the AUT thoroughly enought using JUnit.
+I would rather rely on the server-side developers to test the AUT thoroughly enough.
